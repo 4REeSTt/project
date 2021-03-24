@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 some new one
 
+=======
+some changes here too
+>>>>>>> f7ee30c (file-1.txt new)
