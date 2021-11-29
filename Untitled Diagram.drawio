@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T04:18:33.371Z" agent="5.0 (Windows)" etag="8Pqnjw8aajuByeocPsfb" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T04:22:51.135Z" agent="5.0 (Windows)" etag="8JeJ3z7sYIoC4wzhfFGO" version="15.8.6" type="github">
   <diagram id="75NLMeTjoz7wIbmcaJ3J" name="Page-1">
-    <mxGraphModel dx="1303" dy="1227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="644" dy="986" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,6 +105,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="fo235NaeVIAO6eDBmoJN-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="fo235NaeVIAO6eDBmoJN-16" target="fo235NaeVIAO6eDBmoJN-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="512" y="857" />
+              <mxPoint x="512" y="428" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fo235NaeVIAO6eDBmoJN-16" value="&lt;div&gt;Хранилище настроек приложения&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="140" y="830" width="230" height="55" as="geometry" />
         </mxCell>
@@ -197,6 +205,9 @@
         </mxCell>
         <mxCell id="fo235NaeVIAO6eDBmoJN-55" value="Среда ОС Windows" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="80" y="930" width="190" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fo235NaeVIAO6eDBmoJN-63" value="Модули обмена данными" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="482" y="14" width="246" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
